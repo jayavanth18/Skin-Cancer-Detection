@@ -183,8 +183,3 @@ kagglehub>=0.1.0
 
 </div>
 ```
-
----
-
-This one will render **all badges correctly** on GitHub.
-Do you want me to now **add a social preview image banner** so that when you share the repo link it shows a clean thumbnail? That’ll make it even more attractive when shared.
