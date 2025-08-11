@@ -1,10 +1,3 @@
-Got it — I’ll rewrite your README.md for **`jayavanth18/Skin-Cancer-Detection`** so it’s clean, visually appealing, and professional, with badges, proper formatting, and clear sections.
-
-Here’s your improved **copy-paste-ready README.md**:
-
----
-
-```markdown
 # 🩺 Skin Cancer Detection Using Hybrid CNN-XGBoost
 
 <div align="center">
@@ -177,9 +170,21 @@ kagglehub>=0.1.0
 
 **[A. Jayavanth](https://github.com/jayavanth18)**
 
-[![GitHub](https://img.shields.io/badge/GitHub-jayavanth18-black?logo=github&logoColor=white)](https://github.com/jayavanth18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayavanth18/)
+[![GitHub](https://img.shields.io/badge/GitHub-jayavanth18-black?logo=github\&logoColor=white)](https://github.com/jayavanth18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jayavanth-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jayavanth/)
 
 </div>
 
 ---
+
+<div align="center">
+
+**⭐ If you found this project useful, please star the repo! ⭐**
+
+</div>
+```
+
+---
+
+This one will render **all badges correctly** on GitHub.
+Do you want me to now **add a social preview image banner** so that when you share the repo link it shows a clean thumbnail? That’ll make it even more attractive when shared.
